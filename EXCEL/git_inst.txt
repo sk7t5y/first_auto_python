@@ -1,0 +1,5 @@
+git add .
+git commit -m "freeman"
+git push origin freeman
+git checkout -b freeman
+https://github.com/sk7t5y/first_auto_python.git
