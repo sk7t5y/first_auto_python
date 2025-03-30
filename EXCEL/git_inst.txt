@@ -1,0 +1,11 @@
+-- 소소 코드 올리기 순서 --
+git init
+git add .
+git commit -m "freeman" -- history 만듬 --
+git remote add origin https://github.com/sk7t5y/first_auto_python.git   --연결고리
+git push origin master   -- git hub 저장
+
+client -- pc 에서 아래 수행
+git clone https://github.com/sk7t5y/first_auto_python.git freeman   --freeman 디렉토리 생성 하면서 복사
+cd freeman   -- 복사 된 파일 확인 
+
